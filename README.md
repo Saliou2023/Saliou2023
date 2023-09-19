@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saliou2023
+- 👋 Hi, I’m @Saliou
 - 👀 I’m interested in data processing
 - 🌱 I’m currently learning gen AI.
 - 💞️ I’m looking to collaborate on new project
